@@ -1,0 +1,41 @@
+{
+  "Users": [
+    {
+      "UserProfileData": {
+        "Gender": "Female",
+        "FirstName": "Naledi",
+        "LastName": "Smith",
+        "Email": "naledi.smith1@example.com",
+        "Password": "Naled123"
+      },
+      "JewelryData": {
+        "Material": "45",//Gold
+        "LengthInCM": "4",
+        "Shape": "Heart",
+        "Quantity": 10
+      },
+      "ShippingData": {
+        "Country": "South Africa",
+        "Province": "Northen Cape",
+        "Zipcode": "90001",
+        "ShippingMethod": "Ground"
+      },
+      "PaymentData": {
+        "PaymentMethod": "Credit Card",
+        "CardType": "Visa",
+        "CardHolderName": "Naledi Smith",
+        "CardNumber": "4111111111111111",
+        "ExpirationMonth": "12",
+        "ExpirationYear": "2024",
+        "CardCode": "123"
+      },
+      "BillingData": {
+        "City": "Kimberly",
+        "Address1": "17",
+        "Address2": "Tsela Road",
+        "PhoneNumber": "0734155589",
+        "FaxNumber": ""
+      }
+    }
+  ]
+}

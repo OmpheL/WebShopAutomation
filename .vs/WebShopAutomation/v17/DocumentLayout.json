@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\webshopautomation\\resources\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|solutionrelative:resources\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\webshopautomation\\tests\\testsuite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|solutionrelative:tests\\testsuite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\webshopautomation\\tests\\checkouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|solutionrelative:tests\\checkouttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\webshopautomation\\tests\\createjewelrytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|solutionrelative:tests\\createjewelrytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\webshopautomation\\tests\\hometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|solutionrelative:tests\\hometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\webshopautomation\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|solutionrelative:tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\webshopautomation\\tests\\registertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|solutionrelative:tests\\registertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|c:\\users\\lekab\\onedrive\\desktop\\c#testingnunit\\webshopautomation\\tests\\landingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA93C46B-1E3B-40FD-A18C-30CF539FD17B}|WebShopAutomation.csproj|solutionrelative:tests\\landingtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestData.Json",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Resources\\TestData.Json",
+              "RelativeDocumentMoniker": "Resources\\TestData.Json",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Resources\\TestData.Json",
+              "RelativeToolTip": "Resources\\TestData.Json",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T11:09:19.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckOutTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\CheckOutTest.cs",
+              "RelativeDocumentMoniker": "Tests\\CheckOutTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\CheckOutTest.cs",
+              "RelativeToolTip": "Tests\\CheckOutTest.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAUwM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:00:46.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateJewelryTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\CreateJewelryTest.cs",
+              "RelativeDocumentMoniker": "Tests\\CreateJewelryTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\CreateJewelryTest.cs",
+              "RelativeToolTip": "Tests\\CreateJewelryTest.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAUwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:00:04.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "Tests\\LoginTest.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAcwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:57:54.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\HomeTest.cs",
+              "RelativeDocumentMoniker": "Tests\\HomeTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\HomeTest.cs",
+              "RelativeToolTip": "Tests\\HomeTest.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:57:51.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LandingTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\LandingTest.cs",
+              "RelativeDocumentMoniker": "Tests\\LandingTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\LandingTest.cs",
+              "RelativeToolTip": "Tests\\LandingTest.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwv0EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:51:19.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestSuite.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\TestSuite.cs",
+              "RelativeDocumentMoniker": "Tests\\TestSuite.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\TestSuite.cs",
+              "RelativeToolTip": "Tests\\TestSuite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:51:09.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterTest.cs",
+              "DocumentMoniker": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\RegisterTest.cs",
+              "RelativeDocumentMoniker": "Tests\\RegisterTest.cs",
+              "ToolTip": "C:\\Users\\lekab\\OneDrive\\Desktop\\C#TestingNUnit\\WebShopAutomation\\Tests\\RegisterTest.cs",
+              "RelativeToolTip": "Tests\\RegisterTest.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:51:04.803Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
