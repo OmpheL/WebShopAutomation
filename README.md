@@ -1,13 +1,18 @@
 WebShop Automation Test Suite
+
+
 Overview
+
 This repository contains an automated test suite for the WebShop application. The suite is built using NUnit, Selenium WebDriver, and AventStack.ExtentReports for reporting. The tests cover various functionalities of the WebShop, including user registration, login, jewelry creation, and checkout processes.
 
 Test Cases
+
 1. RegisterTest
 Purpose: Verify the user registration process.
 Tests Included:
 TestClickRegisterLink: Ensures that clicking the "Register" link redirects to the correct page.
 VerifyRegisterOrRegisterNewUser: Tests the registration functionality with different user data.
+
 2. LoginTest
 Purpose: Validate the user login functionality.
 Tests Included:
@@ -27,7 +32,9 @@ TestClickDemoWorkShopLogoReturnsToHomepage: Validates that clicking the logo ret
 Purpose: Verify the checkout process and ensure that it completes successfully.
 Tests Included:
 TestCheckoutProcess: Covers the entire checkout process, including address entry, payment method selection, and order confirmation.
+
 Setup and Execution
+
 Install Dependencies: Ensure you have all the necessary dependencies installed, including NUnit, Selenium WebDriver, AventStack.ExtentReports, and other relevant packages.
 
 Configure Test Data: Test data is loaded from a JSON file located in Resources.FilePathManager.FilePath. Ensure that this file is correctly set up with the required data for your tests.
